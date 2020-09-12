@@ -1,6 +1,6 @@
 # ceb_study_lounge
 
-# featured issues
+## featured issues
 * [study lounge](https://github.com/peter-dobson-ceb/ceb_study_lounge/issues/6) concept 
 
 ## purpose
