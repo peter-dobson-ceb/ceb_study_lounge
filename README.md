@@ -1,4 +1,8 @@
 # ceb_study_lounge
+
+# featured issues
+* [study lounge](https://github.com/peter-dobson-ceb/ceb_study_lounge/issues/6) concept 
+
 ## purpose
 Peter is uisng this GitHub repository to keep notes about his use of computer technology, with the intension that it be shared with others
 
@@ -12,5 +16,3 @@ This repository is intended to be shared with all at CEB, via a link from Peter'
 
 ## private information
 This repository is public, so we must take care to keep private information elsewhere.
-
-Peter keeps private notes about his use of computer technology in [duckspot study lounge](https://github.com/duckspot/study-lounge) (GitHub) - and there are frequent links between his private notes and notes in this repository.
