@@ -1,7 +1,6 @@
 # ceb_study_lounge
-
-## featured issues
-* [study lounge](https://github.com/peter-dobson-ceb/ceb_study_lounge/issues/6) concept 
+* [issues](https://github.com/peter-dobson-ceb/ceb_study_lounge/issues)
+* The [study lounge](https://github.com/peter-dobson-ceb/ceb_study_lounge/issues/6) concept 
 
 ## purpose
 Peter is uisng this GitHub repository to keep notes about his use of computer technology, with the intension that it be shared with others
